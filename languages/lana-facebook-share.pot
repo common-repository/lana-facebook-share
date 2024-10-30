@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lana Facebook Share\n"
+"POT-Creation-Date: 2016-11-23 21:26+0100\n"
+"PO-Revision-Date: 2016-11-23 21:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-lana-fb-hide-widget.php:14
+msgid "Lana - Facebook Hide"
+msgstr ""
+
+#: includes/class-lana-fb-hide-widget.php:15
+msgid "Hide Facebook share button."
+msgstr ""
+
+#: lana-facebook-share.php:28
+msgid "Settings"
+msgstr ""
+
+#: lana-facebook-share.php:41 lana-facebook-share.php:67
+msgid "Lana Facebook Share Settings"
+msgstr ""
+
+#: lana-facebook-share.php:41
+msgid "Lana Facebook Share"
+msgstr ""
+
+#: lana-facebook-share.php:72
+msgid "Button Settings"
+msgstr ""
+
+#: lana-facebook-share.php:77
+msgid "Layout"
+msgstr ""
+
+#: lana-facebook-share.php:84
+msgid "standard"
+msgstr ""
+
+#: lana-facebook-share.php:88
+msgid "box count"
+msgstr ""
+
+#: lana-facebook-share.php:92
+msgid "button count"
+msgstr ""
+
+#: lana-facebook-share.php:96
+msgid "button"
+msgstr ""
+
+#: lana-facebook-share.php:104
+msgid "Share Button"
+msgstr ""
+
+#: lana-facebook-share.php:111 lana-facebook-share.php:135
+#: lana-facebook-share.php:155 lana-facebook-share.php:179
+#: lana-facebook-share.php:199
+msgid "Disabled"
+msgstr ""
+
+#: lana-facebook-share.php:115 lana-facebook-share.php:139
+#: lana-facebook-share.php:159 lana-facebook-share.php:183
+#: lana-facebook-share.php:203
+msgid "Enabled"
+msgstr ""
+
+#: lana-facebook-share.php:122
+msgid "Post type Settings"
+msgstr ""
+
+#: lana-facebook-share.php:127
+msgid "Content Before (in post)"
+msgstr ""
+
+#: lana-facebook-share.php:147
+msgid "Content After (in post)"
+msgstr ""
+
+#: lana-facebook-share.php:166
+msgid "Page type Settings"
+msgstr ""
+
+#: lana-facebook-share.php:171
+msgid "Content Before (in page)"
+msgstr ""
+
+#: lana-facebook-share.php:191
+msgid "Content After (in page)"
+msgstr ""
+
+#: lana-facebook-share.php:212
+msgid "Save Changes"
+msgstr ""
